@@ -89,5 +89,7 @@ cd <your-repo>
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=18A0FB,4FD1A5,FFD966,F64F59&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=18A0FB,4FD1A5,FFD966,F64F59"/>
 </p>
+
+
