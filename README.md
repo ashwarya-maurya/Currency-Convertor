@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=18A0FB,4FD1A5,FFD966,F64F59&height=120&section=header&text=Currency%20Converter%20Web%20App&fontSize=36&fontAlignY=35&fontColor=ffffff" alt="header wave"/>
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
@@ -91,5 +92,6 @@ cd <your-repo>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=18A0FB,4FD1A5,FFD966,F64F59"/>
 </p>
+
 
 
