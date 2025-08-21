@@ -1,8 +1,9 @@
  <!-- Currency Converter Project README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=18A0FB,4FD1A5,FFD966,F64F59&height=120&section=header&text=Currency%20Converter%20Web%20App&fontSize=36&fontAlignY=35&fontColor=ffffff" alt="header wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Currency%20Converter%20Web%20App&fontSize=36&fontAlignY=35&fontColor=ffffff" alt="header wave"/>
 </p>
+
 
 
 <p align="center">
@@ -92,6 +93,7 @@ cd <your-repo>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=18A0FB,4FD1A5,FFD966,F64F59"/>
 </p>
+
 
 
 
