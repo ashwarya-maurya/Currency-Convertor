@@ -77,8 +77,8 @@ A sleek, responsive <b style="color:#F64F59;">Currency Converter</b> that lets y
 1. **Clone**
 
 ```bash
-git clone https://github.com/<ashwarya-maurya>/<Currency-Convertor>.git
-cd <Currency-Convertor>
+git clone https://github.com/ashwarya-maurya/Currency-Convertor.git
+cd Currency-Convertor
 ```
 
 2. **Open** `index.html` in your browser.
