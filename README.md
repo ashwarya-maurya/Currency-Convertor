@@ -1,8 +1,6 @@
 ﻿ <!-- Currency Converter Project README -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18A0FB,4FD1A5,F64F59,FAD961&height=120&section=header&text=Currency%20Converter%20Web%20App&fontSize=36&fontAlignY=35&fontColor=ffffff"/>
-</p>
+<h1 align="center">Currency Converter</h1>
 
 
 
